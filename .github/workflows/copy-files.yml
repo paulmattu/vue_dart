@@ -1,4 +1,4 @@
-name: Copy Files
+name: Copy_Files
 
 on: [push]
 
